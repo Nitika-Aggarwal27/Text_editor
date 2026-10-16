@@ -7,7 +7,7 @@ from tkinter import filedialog, messagebox
 # Main window code
 root = tk.Tk()
 root.title("My Text-Editor")
-root.geometry("800x900")
+root.geometry("800x600")
 
 
 # create text area
